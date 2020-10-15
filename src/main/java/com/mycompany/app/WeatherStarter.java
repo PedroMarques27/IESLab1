@@ -20,7 +20,7 @@ public class WeatherStarter {
     loggers provide a better alternative to System.out.println
     https://rules.sonarsource.com/java/tag/bad-practice/RSPEC-106
      */
-    private static final Logger logger = LogManager.getLogger(WeatherStarter.class);
+    private static Logger logger = LogManager.getLogger(WeatherStarter.class);
 
     public static void  main(String[] args ) {
 
