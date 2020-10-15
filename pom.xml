@@ -27,6 +27,18 @@
             </roles>
             <timezone>0</timezone>
         </developer>
+      <developer>
+          <id>Pedro</id>
+          <name>Pedro Marques</name>
+          <email>pedroagoncalvesmarques@ua.pt</email>
+          <url></url>
+          <organization>UA</organization>
+          <organizationUrl></organizationUrl>
+          <roles>
+              <role>student</role>
+          </roles>
+          <timezone>0</timezone>
+      </developer>
     </developers>
 
   <properties>
